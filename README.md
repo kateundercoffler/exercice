@@ -32,21 +32,21 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
 
-[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_01.png)
+![capture-écran](./images/1-textes-alternatifs/1-2/capture-ecran_1.2_01.png)
 Le texte alternative est assez bien, mais il manque la couleur de chaussures.
 - https://amzn.to/2NnbKPN 
 
 L'information du vélo est là, mais je trouve que c'est lourd. C'est-à-dire que ce n'est pas organisé. Ça manque aussi la couleur.
-[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_02.png)
+![capture-écran](./images/1-textes-alternatifs/1-2/capture-ecran_1-2_02.png)
 
 - https://www.lesoleil.com/  
 Les alts du site répète les titres des articles et ils ne expliquent pas du tout ce qui se passe dans les images. 
 Exemple de déscription : alt="Monsieur en entrevue parle devant une photographe d'immeubles.
 
-[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_03.png)
+![capture-écran](./images/1-textes-alternatifs/1-2/capture-ecran_1-2_03.png)
 - https://www.rad.ca/  
 Les alts sont bien faits !  On trouve qu'il explique ce qui se passe dans les images et il y a même le label aria-label ce qui décrit un élément intéractif.
-[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_04.png)
+![capture-écran](./images/1-textes-alternatifs/1-2/capture-ecran1.2_04.png)
 
 
 Astuce  
@@ -61,9 +61,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- ![Contraste insuffisant 1](./images/2-contrastes-couleurs/capture-ecran01.png)
+- ![Contraste insuffisant 2](./images/2-contrastes-couleurs/capture-ecran02.png)
+- ![Contraste insuffisant 3](./images/2-contrastes-couleurs/capture-ecran03.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
