@@ -79,20 +79,14 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
-----
-----
-----
+Selon ce qu'on a vu dans les notes du cours, je dirais que le PDF tuto-form suit bien les règles. Je ne vois aucun problème.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko-outline.png) 
   
 Réponse : 
-
-----
-----
-----
+Par rapport d'article Savtchenko, tous les éléments de 'formulaire de recherche' à 'l'actualité de la condition des femmes dans le monde' ne devraient pas les h2. Ils devraient être leurs perspectives éléments, par exemple le menu principal doit être une navigation principale et le formulaire de recherche doit être l'élement input. Les H1 ont été bien utilisés.
 
 
 #### 3.2 S'exercer à bien structurer
