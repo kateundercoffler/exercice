@@ -31,25 +31,23 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+
+[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_01.png)
+Le texte alternative est assez bien, mais il manque la couleur de chaussures.
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+
+L'information du vélo est là, mais je trouve que c'est lourd. C'est-à-dire que ce n'est pas organisé. Ça manque aussi la couleur.
+[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_02.png)
+
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+Les alts du site répète les titres des articles et ils ne expliquent pas du tout ce qui se passe dans les images. 
+Exemple de déscription : alt="Monsieur en entrevue parle devant une photographe d'immeubles.
+
+[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_03.png)
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+Les alts sont bien faits !  On trouve qu'il explique ce qui se passe dans les images et il y a même le label aria-label ce qui décrit un élément intéractif.
+[capture-écran](images/1-textes-alternatifs/1-2/capture-ecran_1.2_04.png)
+
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
